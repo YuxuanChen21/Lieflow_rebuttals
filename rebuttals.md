@@ -1,7 +1,7 @@
 # 1. Results of MI-Motion dataset
 
 <p align="center">
-  <img src="figs/mi_motion_so3.png" width="200">
+  <img src="figs/mi_motion_so3.png" width="400">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="figs/MI_Lieflow_hist.png" width="200">
+  <img src="figs/MI_Lieflow_hist.png" width="300">
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="figs/MI_LieGAN_hist.png" width="200">
+  <img src="figs/MI_LieGAN_hist.png" width="300">
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 
 <p align="center">
-  <img src="figs/condition_arrow_dist.png" width="400">
+  <img src="figs/condition_arrow_dist.png" width="800">
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 
 
 <p align="center">
-  <img src="figs/label_arrow_heatmaps_all_rotations.png" width="400">
+  <img src="figs/label_arrow_heatmaps_all_rotations.png" width="800">
 </p>
 
 <p align="center">
